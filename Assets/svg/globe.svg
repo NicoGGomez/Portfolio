@@ -1,0 +1,40 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 100 100"
+    fill="none"
+>
+    <!-- Círculo exterior -->
+    <circle
+        cx="50"
+        cy="50"
+        r="45"
+        stroke="white"
+        stroke-width="5"
+    />
+
+    <!-- Meridianos -->
+    <ellipse
+        cx="50"
+        cy="50"
+        rx="20"
+        ry="45"
+        stroke="white"
+        stroke-width="5"
+    />
+
+    <!-- Paralelo superior -->
+    <path
+        d="M9 35H91"
+        stroke="white"
+        stroke-width="5"
+        stroke-linecap="round"
+    />
+
+    <!-- Paralelo inferior -->
+    <path
+        d="M9 65H91"
+        stroke="white"
+        stroke-width="5"
+        stroke-linecap="round"
+    />
+</svg>
