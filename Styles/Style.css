@@ -1766,10 +1766,26 @@ main {
         overflow: hidden;
         background: #eee;
     }
+
+    .header-mobile__name {
+        max-width: 360px;
+    }
+
+    .header-mobile__nicolas {
+        width: 78%;
+        margin-top: -3%;
+    }
+
+    .header-mobile__gomez {
+        width: 78%;
+        margin-left: 0%;
+        margin-top: -0%;
+    }
+
 }
 
 /* Ajustes para celulares */
-@media (max-width: 500px) {
+@media (max-width: 700px) {
     
     .header-mobile {
         min-height: 390px;
@@ -1787,14 +1803,13 @@ main {
 
     .header-mobile__nicolas {
         width: 78%;
-        margin-left: 12%;
         margin-top: -3%;
     }
 
     .header-mobile__gomez {
         width: 78%;
-        margin-left: 12%;
-        margin-top: -3%;
+        margin-left: 0%;
+        margin-top: -0%;
     }
 
     .header-mobile__social {
