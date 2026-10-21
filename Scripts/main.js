@@ -175,7 +175,7 @@ const projects = {
             "Mercado Pago"
         ],
 
-        video: "",
+        video: "https://www.youtube.com/watch?v=idkRjQ1NIIY",
 
         demo: "https://vibetandil.netlify.app/",
 
