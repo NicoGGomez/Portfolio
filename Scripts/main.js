@@ -175,7 +175,7 @@ const projects = {
             "Mercado Pago"
         ],
 
-        video: "https://www.youtube.com/watch?v=idkRjQ1NIIY",
+        video: "https://player.cloudinary.com/embed/?cloud_name=dyhfcnn0&public_id=Video-Vibe",
 
         demo: "https://vibetandil.netlify.app/",
 
